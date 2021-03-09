@@ -7,7 +7,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1 id="date-in-html"></h1>
+      <h1 id="date-in-html">Weather App React</h1>
       <div className="row justify-content-center" id="search">
         <div className="row col-md-4">
           <input
