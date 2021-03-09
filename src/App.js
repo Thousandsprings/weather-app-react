@@ -1,14 +1,5 @@
-import "./App.css";
-import React from "react";
-import Weather from "./Weather";
+import "./Weather.css";
 
-function App() {
-  return (
-    <div className="App">
-      <h1>Weather</h1>
-      <Weather city="Tokyo" />
-    </div>
-  );
+export default function App() {
+  return <div className="App"></div>;
 }
-
-export default App;

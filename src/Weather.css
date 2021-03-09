@@ -1,0 +1,27 @@
+.Weather ul {
+  padding-left: 0;
+}
+.Weather li {
+  margin-top: 20px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: #212121;
+}
+.Weather .temp {
+  text-decoration: none;
+}
+.Weather .active {
+  color: black;
+  cursor: default;
+}
+.active:hover {
+  color: black;
+}
+.Weather .weather-now {
+  width: 250px;
+}
+.Weather .current-weather {
+  font-size: 20px;
+  color: #f7e9e3;
+}
